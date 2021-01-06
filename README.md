@@ -1,3 +1,5 @@
+Project by Will Hanley, Dominika Jones, Mike Winder, and Sidni Johnson
+
 ## Problem Statement
 Amongst all the craziness of 2020, the one thing we did not expect to focus on was the Black Lives Matter movement. It has been 157 years since slavery was abolished and 150 years since people of color received the right to vote. Unfortunately, systemic racism continues in the United States and other countries around the world. We at Equality, work with law enforcement to teach racial bias. We do this by evaluating the crime in your area and looking at the number of fatal encounters. With our help, we can reduce your number of racially biased fatal encounters.
 In order to solve our problem statement, our team will use a dataset documenting the fatal encounters nationwide with police from 2000 to 2020. We will look to build a model that can predict race, and in doing so, see if racial bias plays a factor in these deaths. Further, we would look to find the locations where this racial bias is most prevalant, and look to change cultures within the police departments at these different locations. 
